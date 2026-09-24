@@ -4,7 +4,7 @@
 
 > 객체는 점에서 출발해, 자기 자신을 중첩함으로써 새로운 위상을 형성하며, 그 누적된 위상 자체가 의미의 차원을 이룬다.
 >
-> — 본편 v9.4 「요약」
+> — 본편 「요약」
 
 <div class="odt-chain" markdown>
 [**1**점](dimensions/1-point.md)
@@ -16,30 +16,27 @@
 [**7**중심](dimensions/7-center.md)
 [**8**반향](dimensions/8-resonance.md)
 [**9**종합](dimensions/9-synthesis.md)
-[**↺**다음 겹](principles/linked-structure.md)
+[**↺**순환](principles/linked-structure.md)
 </div>
 
-## 핵심 주장
-
-저자가 이론의 중심이자, 이론이 틀릴 수 있는 지점으로 꼽은 두 주장이다. <span class="st st-hyp">가설</span>
+## 저자의 세 주장 <span class="st st-hyp">가설</span> { data-toc-label="저자의 세 주장" }
 
 1. **시간은 변화이며 엔트로피다.** 시간은 바깥에서 흐르는 축이 아니라, 각 성의 구조가 변할 때 생기는 현상이다. → [시간](principles/time.md)
-2. **9차원 프랙탈 구조로 설명되지 않는 것은 없다.** 물리·생명·의식·사회를 같은 1~9성 구조로 읽는다. → [해석](interpretations/index.md)
+2. **9차원 프랙탈 구조로 설명되지 않는 것은 없다.** 물리·생명·의식·사회를 같은 1~9성 구조로 읽는다. 저자는 이것이 이론이 틀릴 수 있는 지점이라고 스스로 밝힌다. → [열린 과제](research/open-problems.md#falsification)
+3. **형이상과 형이하 모두 1~9성으로 설명된다.** 다만 1성에서 9성으로 오를수록 형이상의 영향이 커진다. → [핵심 원리](principles/index.md#tiers)
 
-두 주장이 어떤 조건에서 틀렸다고 볼 수 있는지는 [열린 과제](research/open-problems.md#falsification)에서 정리한다.
+## 이 위키를 읽는 법
 
-## 현재 상태
-
-이 위키는 **뼈대 단계**다. 본문은 저자가 쓴 본편 v9.4(2025-12-29)를 근거로 하며, 수식의 정식화는 다시 정리하고 있다. 모든 주장에는 아래 상태를 표시했다.
+이 위키는 저자의 본편과 그 뒤 저자가 밝힌 말을 바탕으로, 쪽마다 지금의 내용만 싣는다. 저자의 말은 따옴표 안에 글자 그대로 옮기고 날짜를 붙였다. 성격이 다른 설명에는 아래 표시를 붙인다. 표시가 없는 문장은 저자의 이론 본문이다.
 
 | 표시 | 뜻 |
 |---|---|
-| <span class="st st-def">정의</span> | 본편이 정한 내용 |
-| <span class="st st-der">유도</span> | ODT의 원리에서 따라 나온 결과 |
-| <span class="st st-int">해석</span> | ODT의 틀로 다른 분야의 개념을 읽은 대응 |
+| <span class="st st-int">대응</span> | ODT의 틀로 다른 분야의 개념을 짝지은 것 |
 | <span class="st st-bor">차용</span> | 다른 이론에서 빌려 온 가정 |
 | <span class="st st-hyp">가설</span> | 아직 검증되지 않은 주장이나 예측 |
-| <span class="st st-rev">개정 중</span> | 지금 다시 정리하고 있는 부분 |
+| <span class="st st-rev">열림</span> | 아직 정해지지 않은 물음 |
+
+수식을 계산식으로 세우는 일은 진행 중이다. → [열린 과제](research/open-problems.md)
 
 ## 어디서부터 읽을까
 

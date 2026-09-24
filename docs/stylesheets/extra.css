@@ -1,11 +1,11 @@
 /* 상태 표시 색 */
 :root {
-  --odt-def: #546e7a;  /* 정의 */
-  --odt-der: #2e7d32;  /* 유도 */
-  --odt-int: #1565c0;  /* 해석 */
+  --odt-def: #546e7a;  /* (쓰지 않음) */
+  --odt-der: #2e7d32;  /* (쓰지 않음) */
+  --odt-int: #1565c0;  /* 대응 */
   --odt-bor: #616161;  /* 차용 */
   --odt-hyp: #6a1b9a;  /* 가설 */
-  --odt-rev: #d84315;  /* 개정 중 */
+  --odt-rev: #d84315;  /* 열림 */
 }
 
 [data-md-color-scheme="slate"] {
