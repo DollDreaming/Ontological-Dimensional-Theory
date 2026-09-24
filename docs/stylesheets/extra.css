@@ -1,0 +1,106 @@
+/* 상태 표시 색 */
+:root {
+  --odt-def: #546e7a;  /* 정의 */
+  --odt-der: #2e7d32;  /* 유도 */
+  --odt-int: #1565c0;  /* 해석 */
+  --odt-bor: #616161;  /* 차용 */
+  --odt-hyp: #6a1b9a;  /* 가설 */
+  --odt-rev: #d84315;  /* 개정 중 */
+}
+
+[data-md-color-scheme="slate"] {
+  --odt-def: #90a4ae;
+  --odt-der: #81c784;
+  --odt-int: #64b5f6;
+  --odt-bor: #bdbdbd;
+  --odt-hyp: #ce93d8;
+  --odt-rev: #ffab91;
+}
+
+.md-typeset .st {
+  display: inline-block;
+  margin: 0 0.15em;
+  padding: 0 0.6em;
+  border: 1px solid currentColor;
+  border-radius: 1em;
+  font-size: 0.72em;
+  font-weight: 700;
+  line-height: 1.7;
+  vertical-align: 0.12em;
+  white-space: nowrap;
+}
+
+.md-typeset .st-def { color: var(--odt-def); }
+.md-typeset .st-der { color: var(--odt-der); }
+.md-typeset .st-int { color: var(--odt-int); }
+.md-typeset .st-bor { color: var(--odt-bor); }
+.md-typeset .st-hyp { color: var(--odt-hyp); }
+.md-typeset .st-rev { color: var(--odt-rev); }
+
+/* 제목 옆 상태 표시는 조금 작게 */
+.md-typeset h1 .st,
+.md-typeset h2 .st,
+.md-typeset h3 .st {
+  font-size: 0.5em;
+}
+
+/* 1~9성 사슬 */
+.md-typeset .odt-chain p {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem 0.85rem;
+  margin: 1.4em 0;
+}
+
+.md-typeset .odt-chain a {
+  position: relative;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 2.6em;
+  padding: 0.28em 0.42em;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.5em;
+  background: var(--md-code-bg-color);
+  color: var(--md-default-fg-color);
+  line-height: 1.3;
+  text-decoration: none;
+}
+
+.md-typeset .odt-chain a:hover {
+  border-color: var(--md-accent-fg-color);
+}
+
+.md-typeset .odt-chain a strong {
+  color: var(--md-primary-fg-color);
+  font-size: 1.1em;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .odt-chain a strong {
+  color: var(--md-accent-fg-color);
+}
+
+.md-typeset .odt-chain a:not(:last-child)::after {
+  content: "→";
+  position: absolute;
+  right: -0.82em;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--md-default-fg-color--light);
+  font-weight: 400;
+}
+
+.md-typeset .odt-chain a:last-child {
+  border-style: dashed;
+}
+
+/* 표 머리칸 줄바꿈 방지 */
+.md-typeset table:not([class]) th {
+  white-space: nowrap;
+}
+
+/* 용어집 */
+.md-typeset dl dt {
+  font-weight: 700;
+}
