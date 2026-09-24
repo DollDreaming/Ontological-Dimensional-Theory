@@ -1,5 +1,5 @@
 ---
-ko_sha: f96cac86a169276f
+ko_sha: 6d906461bd6ca50b
 ---
 
 # Core principles
@@ -7,6 +7,12 @@ ko_sha: f96cac86a169276f
 **At the core of ODT is a structure in which geometric spatial axes increase one at a time.** The 1st dimension is the reference definition, and each dimension from the 2nd to the 9th is added as a new axis. A new axis does not stand apart; it stacks on the axes before it. What is completed at the 9th dimension returns to the 1st, forming a fractal.
 
 > "This theory defines the structural principles of the interactions among the nine dimensions, and can divide them into tiers: the physical tier (E₂–E₄), the metaphysical tier (E₆–E₈), and (E₁, E₅, E₉), which signify definition. The core structural feature of ODT is the sequential increase of geometric spatial axes. With E₁ as the reference definition, each dimension from E₂ to E₉ is added as a new spatial axis, unfolding a nine-dimensional phase space. Each Eₙ is not an independent axis but a structure accumulated on the preceding dimensional axes, and the nine-dimensional space completed at E₉ flows back to E₁, forming a fractal structure." — Author, 2026-04-09[^q1]
+
+The root principle is this increase alone; the author calls it the geometric increase of spacetime dimensions. The meanings of the nine dimensions are what comes out of interpreting that increase, and the 5th to the 9th are no exception.
+
+> "Yes — the root principle of ODT is the geometric increase of spacetime dimensions, and interpreting that increase of spacetime dimensions is simply what yields those results." — Author, 2026-09-07[^q2]
+
+> "E5–E9 are also just geometry." — Author, 2026-09-07[^q3]
 
 ## Topological accumulation { #topological-accumulation }
 
@@ -24,7 +30,7 @@ Each dimension is the result of the previous ones and, at the same time, a new c
 
 Phase is the state in which an existence is aligned; the phase φ of the 1st dimension is its smallest form. An object forms a new phase by overlapping itself, and the phase so accumulated becomes the dimension of meaning.
 
-> "You could say En+1 is the accumulation on the En below." — Author, 2026-09-22[^q2]
+> "You could say En+1 is the accumulation on the En below." — Author, 2026-09-22[^q4]
 
 ## New axes stack on the earlier ones
 
@@ -44,11 +50,15 @@ The nine dimensions divide into three tiers.
 | Metaphysical tier | 6th Direction · 7th Center · 8th Resonance |
 | Definition | 1st Point (reference definition) · 5th Multilayer (semantic definition) · 9th Synthesis (holistic definition) |
 
-> "E1, E5 and E9 are the reference definition, the semantic definition and the holistic definition, respectively." — Author, 2026-04-03[^q3]
+> "E1, E5 and E9 are the reference definition, the semantic definition and the holistic definition, respectively." — Author, 2026-04-03[^q5]
 
 The metaphysical and the physical are not two separate worlds.
 
-> "Both the metaphysical and the physical are explained by E₁–E₉. But the higher you climb from E₁ to E₉, the greater the influence of the metaphysical." — Author, 2026-09-21[^q4]
+> "Both the metaphysical and the physical are explained by E₁–E₉. But the higher you climb from E₁ to E₉, the greater the influence of the metaphysical." — Author, 2026-09-21[^q6]
+
+The theory itself is physical and, at the same time, metaphysical.
+
+> "The greatest strength of ODT, and what demands a high level of understanding, is that ODT itself is physical and at the same time metaphysical." — Author, 2026-09-07[^q7]
 
 ## The entropy gradient
 
@@ -66,6 +76,12 @@ The evolution of existence is the compression of information through decreasing 
 
 The nine-dimension system should be understood as a cumulative, generative fractal structure: "establishment of existence → relation → influence → structure → integration → direction → center → resonance → definition". Each dimension is described in [The nine dimensions at a glance](../dimensions/index.md).
 
+Even a single word has no meaning on its own; it is defined as it passes through the 2nd to the 9th dimensions. This is not only about language.
+
+> "A single word — even a grammatical particle — means nothing on its own. Isn't it defined as it passes through E2–E9?" — Author, 2026-09-07[^q8]
+
+> "ODT says that everything in the world is like that." — Author, 2026-09-07[^q9]
+
 ## Circulation and fractal
 
 The definition at the 9th dimension becomes the 1st dimension of the next interpretation, and every dimension holds the 1st to 9th dimensions within itself. → [Linked structure](linked-structure.md)
@@ -78,6 +94,11 @@ The formulas began as structural declarations that express the phase relations a
     The main paper: "Topological Nature of the Theory", "Summation", "Conclusion", Supplement 3 "Information Theory". The author's abstract (2026-04-09) and conversations with the author (dated). The English quotations are translations; the Korean originals are in the notes.
 
 [^q1]: Original (Korean): "본 이론은 9차원간 상호작용이 가지는 구조적 원리를 정의하고 형이하학적 층(E₂~E₄)과 형이상학적 층(E₆~E₈) 그리고 정의를 의미하는 (E₁, E₅, E₉)을 층으로 구분할 수 있다. ODT의 핵심 구조적 특징은 기하학적 공간 축의 순차적 증가다. E₁을 기준 정의로 하며, E₂부터 E₉까지 각 차원이 새로운 공간적 축으로 추가됨으로써 9차원 위상 공간이 전개된다. 각 Eₙ은 독립적 축이 아니라 선행 차원축 위에 누적되는 구조이며, E₉에서 완성된 9차원 공간이 다시 E₁로 환류하여 프랙탈 구조를 형성한다."
-[^q2]: Original (Korean): "아래En에 누적이 En+1라 할수있어"
-[^q3]: Original (Korean): "E1, E5, E9는 각각 기준정의, 의미정의, 종합정의"
-[^q4]: Original (Korean): "형이상과 형이하 모두 E₁~E₉ 로 설명된다. 다만 E₁ → E₉ 로 오를수록 형이상의 영향이 커진다."
+[^q2]: Original (Korean): "응 ODT 근본원리는 기하학적 시공간차원증가이고 그렇게 시공간 차원 증가를 해석하니 그런 결과가 나올뿐인거다."
+[^q3]: Original (Korean): "E5~E9도 기하일뿐이다."
+[^q4]: Original (Korean): "아래En에 누적이 En+1라 할수있어"
+[^q5]: Original (Korean): "E1, E5, E9는 각각 기준정의, 의미정의, 종합정의"
+[^q6]: Original (Korean): "형이상과 형이하 모두 E₁~E₉ 로 설명된다. 다만 E₁ → E₉ 로 오를수록 형이상의 영향이 커진다."
+[^q7]: Original (Korean): "ODT의 가장 큰 장점이나 높은 이해를 필요로 하는 것은 ODT자체가 형이하학적이며 동시에 형이상학적이라는 것이다."
+[^q8]: Original (Korean): "하나의 단어, 조사등도 혼자는 아무의미 없지. E2~E9를 거칠때 정의되지 않그래?"
+[^q9]: Original (Korean): "ODT는 세상모든것이 그렇다고 말하는 것이다."

@@ -1,5 +1,5 @@
 ---
-ko_sha: 54d974c065db9796
+ko_sha: a65c5c57365b5285
 ---
 
 # The nine dimensions at a glance
@@ -20,6 +20,14 @@ ko_sha: 54d974c065db9796
 
 The meaning of the tiers is in [Core principles](../principles/index.md#tiers).
 
+## The nine are facets of one thing
+
+E is a spacetime dimension from the start. That is why the author did not split the nine into separate dimensions but called them 성 (seong). The nine dimensions are different facets pointing to the same thing.
+
+> "Why do you keep separating time? Why do you think I called E1–E9 seong instead of splitting them into separate dimensions? E was a spacetime dimension from the start." — Author, 2026-09-07[^q1]
+
+> "In ODT, En — E1 to E9 — are just different facets; they all point to the same thing." — Author, 2026-09-07[^q2]
+
 ## How to read the formulas
 
 The formula on each page is a structural declaration. It expresses the phase relations and working direction of that dimension. The formulas are now moving to a stage where they are set up as calculable formulas and checked; places not yet settled are in [Open problems](../research/open-problems.md). The $t$ in the formulas is not an axis but a parameter that counts change. → [Time](../principles/time.md)
@@ -31,3 +39,6 @@ The formula on each page is a structural declaration. It expresses the phase rel
 - **Interpretation** — the question the dimension asks
 - **Features and extensions** — how it leads to the next dimension, and the author's explanations
 - **Correspondences in other fields** — pairings with concepts in other fields <span class="st st-int">Correspondence</span>
+
+[^q1]: Original (Korean): "왜 자꾸 시간을 분리해. 내가 E1~E9를 각 차원으로 분리안하고 굳이 성이라 붙인 이유가 뭐라 생각해? 애초부터 E는 시공간차원이야"
+[^q2]: Original (Korean): "ODT의 En은 E1~E9이 다른 단면일뿐이지 다 같은것을 가리키는거다."

@@ -1,5 +1,5 @@
 ---
-ko_sha: 875051961b4b4f4b
+ko_sha: 01d17967022fbbb4
 ---
 
 # 1st Dimension · Point (Existence Point)
@@ -32,15 +32,21 @@ Existence and non-existence are settled as one or the other; when something exis
 
 The 1st dimension is the starting point of every dimension. It is not simply a point placed at physical coordinates but the answer to the question "Has existence itself been established?", and the minimal condition under which the phase of existence aligns and change (time) begins.
 
+Existence and non-existence make up the 1st dimension because time is contained in it. A bit is not the 1st dimension itself but its record.
+
+> "Why is E1 existence and non-existence? Because time is contained in it." — Author, 2026-09-07[^q1]
+
+> "A bit itself is just a record of E1." — Author, 2026-09-07[^q2]
+
 ## Features and extensions
 
 The 1st and 9th dimensions are essentially the same structure and form the basis of the circular fractal structure. → [Linked structure](../principles/linked-structure.md)
 
-> "E₁ is the quantized form of the original of E₉." — Author, 2026-09-20[^q1]
+> "E₁ is the quantized form of the original of E₉." — Author, 2026-09-20[^q3]
 
 The 1st dimension is not bound to any one scale. It may be a quantum point or a single existence in the macroscopic world.
 
-> "E₁ includes a macroscopic meaning, not just the quantum scale." — Author, 2026-04-08[^q2]
+> "E₁ includes a macroscopic meaning, not just the quantum scale." — Author, 2026-04-08[^q4]
 
 ## Correspondences in other fields <span class="st st-int">Correspondence</span> { data-toc-label="Correspondences in other fields" }
 
@@ -56,5 +62,7 @@ The 1st dimension is not bound to any one scale. It may be a quantum point or a 
 !!! note "Sources"
     The main paper: "Structure Definition" (1st dimension), "Summation", Supplements 1–5. Conversations with the author (dated). The exponent in the paper's formula is printed as '1ø(t)', but the text explains it as the complex form of Euler's formula and Supplement 2 writes $e^{i\varphi_1}$, so it is read with the imaginary unit $i$. The paper's phase symbol ø is written φ in this wiki. The English quotations are translations; the Korean originals are in the notes.
 
-[^q1]: Original (Korean): "E₉ 의 원본이 양자화된 것이 E₁."
-[^q2]: Original (Korean): "E₁는 양자스케일뿐 아니라 거시스케일적 의미도 포함하는거니"
+[^q1]: Original (Korean): "왜 E1이 있음과 없음인데. 그건 시간이 포함되어 있기 때문이잖아."
+[^q2]: Original (Korean): "비트 자체가 E1의 기록일뿐이잖아."
+[^q3]: Original (Korean): "E₉ 의 원본이 양자화된 것이 E₁."
+[^q4]: Original (Korean): "E₁는 양자스케일뿐 아니라 거시스케일적 의미도 포함하는거니"
