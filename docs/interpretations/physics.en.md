@@ -1,5 +1,5 @@
 ---
-ko_sha: e1921aa0a36934f2
+ko_sha: c6c9067a8f44dfab
 ---
 
 # Interpretation in physics
@@ -65,6 +65,17 @@ The main paper holds that if string theory deals with "what it calculates", ODT 
 | 9 Synthesis | The unified state of 11-dimensional M-theory |
 
 The main paper writes a string as the vibration of existence, $E_n(t) = A_n(t)\,e^{i\varphi_n(t)}$, where $A_n(t)$ is the amplitude (energy intensity) of the object and $\varphi_n(t)$ its phase (state of alignment), and holds that this formula covers both the general form of the quantum wave function (ψ) and the phase expression of the string's vibration equation $X(\tau,\sigma)$: "the vibration of a string is the topological self-alignment of existence, and physical vibration is the projection of resonance" (Supplement 1). The nine-dimension system closes its structure with the nine dimensions, and time is present in all of them as change. → [Time](../principles/time.md)
+
+## Correspondence with other research: magnetic graphs <span class="st st-int">Correspondence</span> { #magnetic-graph data-toc-label="Magnetic graphs" }
+
+In September 2026 a team led by Namkyoo Park and Sunkyu Yu of Seoul National University and Xianji Piao of the University of Seoul drew the simplest system in which a single atom exchanges energy with light, the quantum Rabi model, as a single network: a "magnetic graph" (*Science Advances*, doi:10.1126/sciadv.aee5566). Each combination of photon number and atomic state becomes a point, and each transition between states becomes a line. A line has a thickness (the strength of the transition) and a color (the phase of the light). Drawn this way, the network is a semi-infinite graph that starts at one end and extends without limit, with links between distant points. The framework describes every coupling strength, from weak to deep-strong, in one picture.
+
+Two of the study's conclusions touch the reading of this theory.
+
+- **Connectivity alone is not enough.** The team found that the graph's connections by themselves cannot explain how the system behaves; the distribution of phase carried by the lines changes that behavior fundamentally. This runs in the same direction as the 2nd dimension, which defines a line by strength and phase difference, and as the theory's summary: the accumulated phase itself forms the dimension of meaning.
+- **Stronger coupling reorganizes the structure.** As coupling grows, phase frustration, in which the phases cannot all agree with one another, reorganizes the quantum states. This touches the author's reading that as the energy within grows, interactions must increase. → [Open problems](../research/open-problems.md#undecided)
+
+There is also a difference. In the 2nd dimension the phase difference comes only from the phases of the two points. In the study, the line itself carries a phase brought by the light. The phase gathered around a closed loop cannot arise from differences between points alone, so how this theory should hold it is still open.
 
 ## Tests proposed in the main paper <span class="st st-hyp">Hypothesis</span> { #tests data-toc-label="Tests proposed in the main paper" }
 
